@@ -1,0 +1,35 @@
+You should install following libraries in Your conda environment.
+
+1) tensorflow gpu
+conda create -n tf-gpu tensorflow-gpu
+conda activate tf-gpu
+
+2) keras 
+conda install -c conda-forge keras
+
+3) pandas
+conda install -c anaconda pandas
+
+4) numpy
+conda install -c anaconda numpy
+
+5) configobj
+conda install -c anaconda configobj
+
+6) argparse 
+conda install -c conda-forge argparse
+
+7) time
+conda install -c conda-forge time
+
+8) cv2
+conda install -c conda-forge opencv
+
+9) sklearn
+conda install -c anaconda scikit-learn
+
+10) easydict
+conda install -c conda-forge easydict
+
+11) pytorch
+conda install -c pytorch pytorch
